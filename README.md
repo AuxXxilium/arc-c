@@ -1,6 +1,6 @@
-# Arc-A Loader for DSM 7.x
+# Arc-C Loader for DSM 7.x
 
-Arc-A is a customized Redpill Loader for DSM 7.x (Xpenology) with enhanced Hardwaresupport, Addons, Extensions, full-automated Installation for RS4021xs+. It is modified to run on different Hardware (see Wiki for more Informations).
+Arc-C is a customized Redpill Loader for DSM 7.x (Xpenology) with enhanced Hardwaresupport, Addons, Extensions, full-automated Installation as SA6400 with custom Kernel. It is modified to run on different Hardware (see Wiki for more Informations).
 
 - Commercial use is not permitted and strictly forbidden!!!
 - DSM and all Parts are under Copyright / Ownership or Registered Trademark by Synology Inc.
